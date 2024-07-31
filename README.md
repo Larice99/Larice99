@@ -1,4 +1,4 @@
-👋 Hi, i'm switching career and, although I am currently an English teacher, I am fascinated into the world of front-end development. I have been dedicating myself to learning HTML, CSS e JavaScript
+👋 Hi, I'm switching careers and, although I am currently an English teacher, I am fascinated by the world of front-end development. I have been dedicating myself to learning HTML, CSS, and JavaScript.
 
 
 <!---
